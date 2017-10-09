@@ -4,6 +4,6 @@
 <br>
 <br>
 
-#### 1. To predict product which users will buy
-#### 2. Dataset URL : <https://www.kaggle.com/c/instacart-market-basket-analysis>
+## 1) Object:  To predict product which users will buy
+## 2) Kaggle Dataset URL : <https://www.kaggle.com/c/instacart-market-basket-analysis>
 
