@@ -12,4 +12,4 @@
 >>| total row | 206209 | 3214874 | 49688   | 49688           |
 
 ### 4) Features
-![instacart_image1](./Users/sherryjeon/Google/Git/img/instacart_image1.png)
+![instacart_image1](./img/instacart_image1.png)
