@@ -14,7 +14,7 @@
 | product | 49,688     | 4       |
 | train   | 1,384,617  | 4       |
 
-|        | user    | order     | product | ordered projuct |
+|        | user    | order     | product | ordered product |
 |--------|---------|-----------|---------|-----------------|
 | total  | 206,209 | 3,214,874 | 49,688  | 49,688          |
 | per a  |         | 15.6      |         | 1.0             |
